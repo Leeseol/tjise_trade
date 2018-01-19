@@ -1,0 +1,22 @@
+footer{
+	width: 100%;
+	height: 125px;
+	background: #0f3268;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-top: 4%;
+}
+.banquan01 {
+    float: left;
+    width: 714px;
+    padding-top: 25px;
+    margin-left: 5%;
+    line-height: 30px;
+    
+}
+.banquan02 {
+    float: right;
+    width: 300px;
+    margin-right: 5%;
+    padding-top: 5px;
+}
